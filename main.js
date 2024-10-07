@@ -10,6 +10,20 @@
 
 
 // Some example variables
-let it_is_christmas = false
-let teaching_partner = "Mr. Squirrel"
-let number_of_students = 27
+
+let length = 10;
+let width = 5;
+let multiplied_value = length * width;
+console.log(multiplied_value)
+
+let first_value = "Santa"
+let last_name = "Claws"
+last_name = "Claus"
+console.log("I still believe in", first_value + last_name)
+
+console.log(typeof multiplied_value + last_name)
+
+const Pi = 3.14;
+let radius = 9;
+console.log(Pi * radius * radius)
+
